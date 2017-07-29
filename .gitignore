@@ -3,3 +3,5 @@ node_modules
 test/testproj
 coverage
 test/support/.config
+
+test/fixtures/*/*/*/src/package-lock.json
